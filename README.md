@@ -6,11 +6,12 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This is a Student Database Management app made using Flutter and PHP XAMPP.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+To run the project:
+step 1: create a MySQL  database for student data 
+step 2: copy the files in PHP files/Student to a folder in htdocs in the XAMMP folder of your workstation.
+step 3: test the connections and data transactions from the test PHP files in the above folder 
+step 4: run the project on the natively connected device on a different port.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Enjoy the app...
